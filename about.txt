@@ -1,0 +1,1 @@
+GitHub is a platform for developers to store, manage, and share their code. It is built around Git, a version control system created by Linus Torvalds (the creator of Linux).
